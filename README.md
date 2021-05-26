@@ -1,19 +1,27 @@
 # Practica-1
 
 Laravel:
-composer install
-php artisan migrate
-php artisan serve
+  -composer install
+  
+  -php artisan migrate
+  
+  -php artisan serve
 
 Adonis JS
-npm install
-adonis migration:run
-adonis serve --dev
+
+  -npm install
+  
+  -adonis migration:run
+  
+  -adonis serve --dev
 
 Flask
-export FLASK_APP=main.py
-export FLASK_ENV=development
-flask run
+
+  -export FLASK_APP=main.py
+  
+  -export FLASK_ENV=development
+  
+  -flask run
 
 
 ----Rutas---
